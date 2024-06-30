@@ -9,6 +9,11 @@ Explore seamless notification management with this Flutter project, showcasing a
 - **Flexible Notification Handling**: Easily switch between OneSignal and FCM for diverse notification scenarios.
 - **Cross-Platform Compatibility**: Supports iOS, Android, and web, ensuring broad platform coverage.
 
+## 📽 Preview
+
+![App Demo](preview/flutter_notify.gif)
+
+
 ## How This Helps
 
 This project serves as a comprehensive learning resource and practical example for developers:
